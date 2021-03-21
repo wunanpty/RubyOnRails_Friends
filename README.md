@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### This [tutorial](https://www.youtube.com/watch?v=fmyvWz5TUWg) inspires this project.
+Ruby on Rails is a is a server-side web application framework used for creating full stack web apps.
 
 Things you may want to cover:
 
